@@ -67,5 +67,13 @@ Here we are creating an image with JDK and maven (or gradle if you are using it)
 ### Best practices
 
 From time to time update the core Images with the latest updates on OS system base.
-For this tag the image with the update date, so tht everybody know how old the updated
+For this tag the image with the update date, so that everybody know how old the updated
 image is.
+
+
+## Domain Specific for this project
+Store the amount of each item. With this we can create order lists, 
+if requested amount is higher as the available on stock
+
+
+

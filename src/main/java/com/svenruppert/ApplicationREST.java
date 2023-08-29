@@ -1,10 +1,10 @@
 package com.svenruppert;
 
 
-public class Application {
+public class ApplicationREST {
 
 
-  private Application() {
+  private ApplicationREST() {
   }
 
   public static void main(String[] args) {
