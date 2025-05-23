@@ -1,4 +1,4 @@
-FROM debian:bookworm-slim
+FROM debian:12.11-slim
 
 LABEL maintainer="Sven Ruppert sven.ruppert@gmail.com" description="temurin-prod:17.0.7"
 
